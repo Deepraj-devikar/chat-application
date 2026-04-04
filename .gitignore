@@ -1,0 +1,42 @@
+# --- OS Specific Files ---
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# --- Common IDEs & Editors ---
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.project
+.settings/
+.classpath
+
+# --- Generic Build & Dependency Folders ---
+node_modules/
+bin/
+build/
+dist/
+out/
+target/
+tests/
+
+# --- Logs and Temporary Files ---
+*.log
+*.tmp
+*.temp
+tmp/
+temp/
+
+# --- Environment and Secrets (CRITICAL) ---
+*.env
+*.env.local
+*.env.*.local
+*.pem
+*.key
+*package-lock.json
