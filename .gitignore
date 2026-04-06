@@ -25,6 +25,7 @@ dist/
 out/
 target/
 tests/
+logs/
 
 # --- Logs and Temporary Files ---
 *.log
